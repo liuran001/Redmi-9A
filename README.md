@@ -1,2 +1,4 @@
-# Redmi-9A
-建设中。。。
+# Home
+
+Welcome to the Redmi-9A wiki!
+
