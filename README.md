@@ -1,4 +1,4 @@
-# Home
+# Redmi-9A 玩机指南
 
-Welcome to the Redmi-9A wiki!
+待建设
 
